@@ -1,0 +1,16 @@
+{
+    "name":"vmasciotta/mgt_akismet",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"http://www.valeriomasciotta.it",
+    "description":"Modulo Akismet per Magento 1.x",
+    "authors":[
+        {
+            "name":"Valerio Masciotta",
+            "email":"sviluppo@valeriomasciotta.it"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}

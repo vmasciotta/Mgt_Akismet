@@ -1,4 +1,4 @@
-### Welcome to the Mgt Akismet Extension for Magento 1.4.x - 1.7.x!
+### Welcome to the Mgt Akismet Extension for Magento 1.4.x - 1.9.x!
 
 We know it cost you a lot time to delete the daily received spam through the contact and product review form.
 With our magento Akismet (Automattic Kismet (Akismet for short)) extension for magento no installation of CAPCTHA is needed. 

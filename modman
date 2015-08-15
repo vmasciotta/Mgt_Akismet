@@ -1,0 +1,4 @@
+htdocs/app/code/community/Mgt/Akismet               app/code/community/Mgt/Akismet
+htdocs/app/local/Mgt/Base                           app/local/Mgt/Base
+htdocs/app/etc/modules/Mgt_Akismet.xml              app/etc/modules/Mgt_Akismet.xml
+htdocs/etc/modules/Mgt_Base.xml                     app/etc/modules/Mgt_Base.xml
